@@ -1,0 +1,30 @@
+CmaeraIndex:  1
+
+imageWidth:  1280
+
+imageHeight:  720
+
+boardWidth:   10
+
+boardHeight:  7
+
+frameNumber:  30
+
+squareSize:   22.9
+
+CameraLeftIntcs: 699.75  0  672.644  0  699.19  365.471  0  0  1      
+
+CameraLeftPcs:  -0.167465 0.0257781  0.000001  -0.0000000001  0.00000007   
+
+CameraRightIntcs: 698.75  0  644.644  0  698.19  385.471  0  0  1     
+
+CameraRightPcs:  -0.168102 0.0252619  0.000001  -0.0000000001  0.00000007  
+
+CameraLeftFileName: /dev/video2
+
+CameraRightFileName: /dev/video2 
+
+CameraFindsize: 5
+
+  
+
